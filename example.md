@@ -1006,7 +1006,7 @@ title: Side Title Layout (Another)
 
 :: content ::
 
-This is `layout: side-title` with `side: right` in the front matter.
+This is `layout: side-title` with `side: left` in the front matter.
 
 ```yaml
 side: left
